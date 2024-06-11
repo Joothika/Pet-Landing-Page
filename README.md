@@ -3,4 +3,4 @@
 <h1>Demo</h1>
 <span>Click here to visit <a href="https://joothika.github.io/doggy-s-world/">Doggy's World</a></span>
 <h1>Screenshot</h1>
-<img src="dooggy's world.png" alt="pet landing page" download >
+<img src="doogy's world.png" alt="pet landing page" download >
