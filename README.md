@@ -1,1 +1,2 @@
-<h1 style="color:'red">Pet Landing Page</h1>
+<h1>Pet Landing Page</h1>
+<hr>
